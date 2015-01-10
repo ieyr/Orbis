@@ -1,2 +1,2 @@
 # Orbys
-world domination
+A world domination game made in libGDX and Atlassian NextPeer.
